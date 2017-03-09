@@ -1,0 +1,10 @@
+
+.idea/*
+target/*
+
+*.class
+
+*.lst
+
+springBootBatch.iml
+/target/
